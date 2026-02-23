@@ -19,3 +19,6 @@ WhatsApp-python est une bibliothèque Python qui permet d'envoyer des messages v
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/Hugo-Aliqo/WhatsApp-python.git
+
+2. Ajouter les contact :
+   Ouvrez les fichier puis créé vos contacts comme indiqué.
